@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "200AEFE1-817C-4845-8396-573B0737E427"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A86D38F-56E1-4E7E-9D79-2ADCCA7EF7D2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataFetchResults/CoreDataStack/CoreDataStack.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "setupMocks()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0DCD4F1B-D1D6-4E74-AAF0-E9AA5966D0CF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataFetchResults/DynamicSectionedFetchResults/DynamicSectionedFetchedResultsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "0DCD4F1B-D1D6-4E74-AAF0-E9AA5966D0CF - b7f378aa60bc83ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Button&lt;SwiftUI.Text&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PrimitiveButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, CoreDataFetchResults.DynamicSectionedArticleList)&gt; in CoreDataFetchResults.DynamicSectionedFetchedResultsView.body.getter : some"
+                  moduleName = "CoreDataFetchResults"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karelbusta/Dev/cubically.co-blog-files/01-core-data-fetch-results/CoreDataFetchResults/DynamicSectionedFetchResults/DynamicSectionedFetchedResultsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "284">
+               </Location>
+               <Location
+                  uuid = "0DCD4F1B-D1D6-4E74-AAF0-E9AA5966D0CF - b7f378aa60bc83ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Button&lt;SwiftUI.Text&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PrimitiveButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, CoreDataFetchResults.DynamicSectionedArticleList)&gt; in CoreDataFetchResults.DynamicSectionedFetchedResultsView.body.getter : some"
+                  moduleName = "CoreDataFetchResults"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karelbusta/Dev/cubically.co-blog-files/01-core-data-fetch-results/CoreDataFetchResults/DynamicSectionedFetchResults/DynamicSectionedFetchedResultsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "452">
+               </Location>
+               <Location
+                  uuid = "0DCD4F1B-D1D6-4E74-AAF0-E9AA5966D0CF - aef27241dfbb669b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Button&lt;SwiftUI.Text&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PrimitiveButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, CoreDataFetchResults.DynamicSectionedArticleList)&gt; in CoreDataFetchResults.DynamicSectionedFetchedResultsView.body.getter : some"
+                  moduleName = "CoreDataFetchResults"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karelbusta/Dev/cubically.co-blog-files/01-core-data-fetch-results/CoreDataFetchResults/DynamicSectionedFetchResults/DynamicSectionedFetchedResultsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "01726736-5A0D-408A-B3AE-558F23167AD1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataFetchResults/DynamicSectionedFetchResults/DynamicSectionedFetchedResultsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "01726736-5A0D-408A-B3AE-558F23167AD1 - b7f378aa60bc83cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Button&lt;SwiftUI.Text&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PrimitiveButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, CoreDataFetchResults.DynamicSectionedArticleList)&gt; in CoreDataFetchResults.DynamicSectionedFetchedResultsView.body.getter : some"
+                  moduleName = "CoreDataFetchResults"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karelbusta/Dev/cubically.co-blog-files/01-core-data-fetch-results/CoreDataFetchResults/DynamicSectionedFetchResults/DynamicSectionedFetchedResultsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "512">
+               </Location>
+               <Location
+                  uuid = "01726736-5A0D-408A-B3AE-558F23167AD1 - 93af3785d4a30fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Button&lt;SwiftUI.Text&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PrimitiveButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, CoreDataFetchResults.DynamicSectionedArticleList)&gt; in CoreDataFetchResults.DynamicSectionedFetchedResultsView.body.getter : some"
+                  moduleName = "CoreDataFetchResults"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karelbusta/Dev/cubically.co-blog-files/01-core-data-fetch-results/CoreDataFetchResults/DynamicSectionedFetchResults/DynamicSectionedFetchedResultsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "01726736-5A0D-408A-B3AE-558F23167AD1 - b7f378aa60bc83cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Button&lt;SwiftUI.Text&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PrimitiveButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, CoreDataFetchResults.DynamicSectionedArticleList)&gt; in CoreDataFetchResults.DynamicSectionedFetchedResultsView.body.getter : some"
+                  moduleName = "CoreDataFetchResults"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karelbusta/Dev/cubically.co-blog-files/01-core-data-fetch-results/CoreDataFetchResults/DynamicSectionedFetchResults/DynamicSectionedFetchedResultsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "680">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "61B85A5F-EE1A-48E2-9FFB-E65710717FB2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataFetchResults/DynamicSectionedFetchResults/DynamicSectionedArticleList.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "init(sectionIdentifier:sortDescriptors:predicate:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "61B85A5F-EE1A-48E2-9FFB-E65710717FB2 - d8e517fcc7b6bea2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataFetchResults.DynamicSectionedArticleList.init(sectionIdentifier: Swift.KeyPath&lt;CoreDataFetchResults.Article, Swift.String&gt;, sortDescriptors: Swift.Array&lt;Foundation.SortDescriptor&lt;CoreDataFetchResults.Article&gt;&gt;, predicate: Swift.Optional&lt;__C.NSPredicate&gt;) -&gt; CoreDataFetchResults.DynamicSectionedArticleList"
+                  moduleName = "CoreDataFetchResults"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karelbusta/Dev/cubically.co-blog-files/01-core-data-fetch-results/CoreDataFetchResults/DynamicSectionedFetchResults/DynamicSectionedArticleList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "320">
+               </Location>
+               <Location
+                  uuid = "61B85A5F-EE1A-48E2-9FFB-E65710717FB2 - d8e517fcc7b6bea2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataFetchResults.DynamicSectionedArticleList.init(sectionIdentifier: Swift.KeyPath&lt;CoreDataFetchResults.Article, Swift.String&gt;, sortDescriptors: Swift.Array&lt;Foundation.SortDescriptor&lt;CoreDataFetchResults.Article&gt;&gt;, predicate: Swift.Optional&lt;__C.NSPredicate&gt;) -&gt; CoreDataFetchResults.DynamicSectionedArticleList"
+                  moduleName = "CoreDataFetchResults"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karelbusta/Dev/cubically.co-blog-files/01-core-data-fetch-results/CoreDataFetchResults/DynamicSectionedFetchResults/DynamicSectionedArticleList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "360">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
